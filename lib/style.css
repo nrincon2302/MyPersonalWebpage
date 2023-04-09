@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(0, 39, 82);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 8px;
+}
+
+.panelIzquierda {
+    background-color: rgb(0, 19, 40);
+    border-radius: 50px;
+    max-width: 475px;
+}
+
+.accordion {
+    width: 100px;
+    background-color: aliceblue;
+}
+
+.card-header {
+
+    width: auto;
+}
+
+.card-body {
+    width: auto;
+    background-color: rgb(20, 54, 116);
+}
+
+.derechaSuperior,
+.derechaMitad,
+.derechaInferior {
+    background-color: rgb(0, 19, 40);
+    border-radius: 50px;
+    padding: 15px;
+    margin: 2px;
+    margin-right: 1px;
+}
+
+.datosInicio {
+    background-color: rgb(194, 192, 192);
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.datosFinal {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 60px;
+    background-color: rgb(194, 192, 192);
+}
+
+p {
+    color: blanchedalmond;
+    font-size: 2.5vmin;
+}
+
+h1 {
+    color: rgb(248, 154, 30);
+    font-size: 5vmin;
+    border-bottom: 1px solid burlywood;
+}
+
+h4 {
+    color: rgb(248, 154, 30);
+    font-size: 3.5vmin;
+}
+
+.custom-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    border: none;
+}
+
+dt {
+    color: rgb(158, 120, 30);
+    font-size: 2.5vmin;
+}
+
+dd {
+    color: rgb(193, 199, 198);
+    font-size: 2vmin;
+}
+
+ul {
+    color: blanchedalmond;
+}
+
+form {
+    width: 100%;
+    color: white;
+    font-weight: bold;
+}
+
+#myself {
+    text-align: justify;
+}
+
+.carousel-item {
+    height: 550px;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background-color: rgb(0, 19, 40);
+}
+
+.carousel {
+    border: 2px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+}
+
+.rounded-circle {
+    border-radius: 50px;
+}
