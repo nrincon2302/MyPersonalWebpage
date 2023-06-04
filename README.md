@@ -4,7 +4,7 @@ Bono desarrollado para la materia Desarrollo de Software en Equipos (2023-10).
 
 ## Imagen
 
-![]("../images/ReadmePage.jpg")
+![](https://github.com/n-rincon4/MyPersonalWebpage/blob/main/images/ReadmePage.jpg)
 
 ## Link al despliegue
 
