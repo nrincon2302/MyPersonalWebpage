@@ -8,7 +8,7 @@ Bono desarrollado para la materia Desarrollo de Software en Equipos (2023-10).
 
 ## Link al despliegue
 
-Accede a la página web en el [siguiente link](https://n-rincon4.github.io/MyPersonalWebpage/).
+Accede a la página web en el [siguiente link](https://nrincon2302.github.io/MyPersonalWebpage/).
 
 
 ## Lista de tecnologías
